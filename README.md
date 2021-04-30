@@ -1,2 +1,2 @@
 # nyc-taxi
-An NN exploration into nyc traffic
+An data exploration into nyc traffic trends with jupyter notebook 
